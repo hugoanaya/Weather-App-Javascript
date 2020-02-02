@@ -7,4 +7,4 @@ When the user clicks on the temperature value, that will convert it from Celcius
 
 The API provider is http://www.OpenWeatherMap.org
 
-CHeck out the tutorial from Code Explianed YouTube Channel: https//youtu.be/KqZGuzrY9D4
+CHeck out the tutorial from Code Explianed YouTube Channel: https://youtu.be/KqZGuzrY9D4
